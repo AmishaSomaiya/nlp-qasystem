@@ -1,5 +1,6 @@
 # Question Answering (QA) System using NLP with SQuAD
 ## Repository Structure
+'''
 .
 ├── EE562_Group3_ProjectReport.pdf
 ├── README.md
@@ -61,5 +62,5 @@
 │       └── preprocessing.py
 └── pretrained_bert
     ├── BERT_Pretrained.ipynb
-
+'''
 14 directories, 46 files
